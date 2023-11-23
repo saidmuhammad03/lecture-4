@@ -71,3 +71,46 @@ func();
 Параметрҳо: Дар ин ҷо Startindex ва Endindex қисми сатрро, ки ҳамчун зерсатр гирифта мешавад, тавсиф мекунанд. Дар ин ҷо Endindex ихтиёрӣ аст. 
 
 Баргардонидани арзиши: Он сатри навро бармегардонад, ки қисми сатри додашуда аст. 
+
+## <span style="color:Greenyellow">Math ceil()
+
+Math.round()function returns the number rounded to the nearest integer.
+
+## <span style="color:Greenyellow">Math floor()
+
+Math.ceil() method rounds a decimal number up to the next largest integer and returns it.
+
+
+## <span style="color:Greenyellow">Math max()
+
+The max()method finds the maximum value among the specified values and returns it.
+
+## <span style="color:Greenyellow">Math min()
+
+The min()method finds the minimum value among the specified values and returns it.
+
+## <span style="color:Greenyellow">Math pow()
+
+The
+method computes the square root of a specified number and returns it
+method computes the power of a number by raising the second argument.
+
+
+## <span style="color:Greenyellow">Math sqrt()
+
+
+The sqrt () method computes the square root of a specified number and returns it
+
+## <span style="color:Greenyellow">Math abs()
+
+The abs()method finds the absolute value of the specified number (without any sign) and returns it.
+
+## <span style="color:Greenyellow">Math min()
+
+TheMath.random() function returns a floating-point, pseudo-random number between0(inclusive)
+and1(exclusive).
+
+
+## <span style="color:Greenyellow">isNAN()
+
+The isNaN() function checks if a value isNaN (Not-a-Number)or not.
